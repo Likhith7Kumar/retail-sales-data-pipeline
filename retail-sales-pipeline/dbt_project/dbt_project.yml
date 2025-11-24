@@ -1,0 +1,7 @@
+name: 'retail_sales'
+version: '1.0'
+profile: 'snowflake_profile'
+
+models:
+  retail_sales:
+    +materialized: view

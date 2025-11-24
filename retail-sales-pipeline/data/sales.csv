@@ -1,0 +1,6 @@
+sale_id,product,quantity,price,sale_date
+1,Cake,2,300,2024-05-01
+2,Bread,5,40,2024-05-02
+3,Cupcake,3,120,2024-05-03
+4,Pizza,1,450,2024-05-03
+5,Doughnut,4,50,2024-05-04
